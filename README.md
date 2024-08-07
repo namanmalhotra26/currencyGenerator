@@ -10,6 +10,8 @@ CurrencyGenerator is a React + Vite application that allows users to fetch curre
 
 ## Deployment Link
 
+https://currency-generator-three.vercel.app/
+
 ## Demo
 
 ![Currency Generator Demo](src/assets/demo.png)
